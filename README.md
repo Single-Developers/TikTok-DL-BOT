@@ -21,7 +21,8 @@
 ## 📚 Description 
 
 🔗 Send any TikTok link to this BOT, then,</br></br>
-🚀 This bot will Download and Send that TikTok Video for You. 
+🚀 This bot will Download and Send that TikTok Video for You. </br></br>
+🔑 BOT Commands : `/start` , '/about'
 
 <br>
 
