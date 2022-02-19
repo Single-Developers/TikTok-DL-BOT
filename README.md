@@ -37,9 +37,9 @@
 
 <br>
 
-##
+## ☘️ Telegram
 
-🚧 Telegram : [🔥 SL Developers </> 🇱🇰](https://t.me/SL_Developers)<br>
+[🔥 SL Developers </> 🇱🇰](https://t.me/SL_Developers)<br>
 [🔥 Single Developers </> ](https://t.me/SingleDevelopers) Corporation ©️
 
 ##
